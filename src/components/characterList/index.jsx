@@ -49,16 +49,16 @@ const CharacterList = () => {
 
     return (
         <div className={styles.container}>
-            <h1 className={styles.title}>Characteres de Harry Potter
+            <h1 className={styles.name}>Characteres de Harry Potter
             </h1>
             <div className={styles.CharacterGrid}>
                 {characters.map((Character) => (
                     <div key={Character.id} className={styles.CharacterCard}>
                         <div className={styles.imageContainer}>
-                            <img src={Character.image} alt={Character.title} className={styles.image} />
+                            <img src={Character.image} alt={Character.name} className={styles.image} />
                         </div>
                         <div className={styles.content}>
-                            <h2 className={styles.CharacterTitle}>{Character.title}</h2>
+                            <h2 className={styles.Charactername}>{Character.name}</h2>
                             <p className={styles.director}>Diretor: {Character.director}</p>
                             <p className={styles.year}>{Character.release_date}</p>
                             <div className={styles.rating}>
