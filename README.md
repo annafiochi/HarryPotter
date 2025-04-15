@@ -20,7 +20,7 @@ Este projeto é dedicado ao universo de Harry Potter. Ele contém arquivos, scri
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-## Licença
+
 Este projeto está sob uma licença específica. Consulte o arquivo `LICENSE` (se disponível) para mais detalhes.
 
 ---
