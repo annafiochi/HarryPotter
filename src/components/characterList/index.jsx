@@ -49,7 +49,7 @@ const CharacterList = () => {
 
     return (
         <div className={styles.container}>
-            <h1 className={styles.name}>Characteres de Harry Potter
+            <h1 className={styles.nameTop}>Characteres de Harry Potter
             </h1>
             <div className={styles.CharacterGrid}>
                 {characters.map((Character) => (
@@ -58,9 +58,9 @@ const CharacterList = () => {
                             <img src={Character.image} alt={Character.name} className={styles.image} />
                         </div>
                         <div className={styles.content}>
-                            <h2 className={styles.Charactername}>{Character.name}</h2>
-                            <p className={styles.director}>Diretor: {Character.director}</p>
-                            <p className={styles.year}>{Character.release_date}</p>
+                            <p className={styles.name}>Name: {Character.name}</p>
+                            <p className={styles.hairColour}>HairColour:{Character.hairColour}</p>
+                            <p className={styles.species}>species:{Character.species}</p>
                             <div className={styles.rating}>
                                 <span className={styles.score}>{Character.rt_score}%</span>
                             </div>

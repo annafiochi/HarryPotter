@@ -24,7 +24,7 @@
   overflow: hidden;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  background-color: #fff;
+  background-color: #e98c09;
 }
 
 .CharacterCard:hover {
@@ -61,18 +61,37 @@
 
 .name {
   font-size: 14px;
-  color: #555;
+  color: #171616;
+  margin: 5px 0;
+
+}
+
+
+.nameTop {
+  font-size: 20px;
+  color: #e36c04;
+  margin: 10px 0;
+  align-items: center;
+
+}
+
+.hairColour {
+  font-size: 14px;
+  color: #0b0b0b;
   margin: 5px 0;
 }
+
+
+
 .dateOfBirth {
   font-size: 14px;
-  color: #555;
+  color: #040404;
   margin: 5px 0;
 }
 
 .species {
   font-size: 14px;
-  color: #555;
+  color: #0f0f0f;
   margin: 5px 0;
 }
 .house {
