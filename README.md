@@ -16,7 +16,4 @@ Este projeto é dedicado ao universo de Harry Potter. Ele contém arquivos, scri
 
 
 
-Este projeto está sob uma licença específica. Consulte o arquivo `LICENSE` (se disponível) para mais detalhes.
 
----
-**Nota:** Este README é um ponto de partida e pode ser expandido conforme o projeto evolui.
