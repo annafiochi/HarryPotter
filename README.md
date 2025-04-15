@@ -12,13 +12,8 @@ Este projeto é dedicado ao universo de Harry Potter. Ele contém arquivos, scri
 - Organização de conteúdo relacionado ao universo de Harry Potter.
 - Possibilidade de expansão para incluir scripts, dados e outros recursos.
 
-## Como Usar
-1. Clone o repositório para sua máquina local.
-2. Navegue até o diretório `/harry`.
-3. Explore os arquivos e subdiretórios para acessar o conteúdo.
 
-## Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
 
 
 Este projeto está sob uma licença específica. Consulte o arquivo `LICENSE` (se disponível) para mais detalhes.
